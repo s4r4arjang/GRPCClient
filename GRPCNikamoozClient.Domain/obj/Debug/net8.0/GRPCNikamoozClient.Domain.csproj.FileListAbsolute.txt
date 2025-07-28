@@ -1,0 +1,11 @@
+E:\Secret\GRPCNikamoozClient\GRPCNikamoozClient.Domain\bin\Debug\net8.0\GRPCNikamoozClient.Domain.deps.json
+E:\Secret\GRPCNikamoozClient\GRPCNikamoozClient.Domain\bin\Debug\net8.0\GRPCNikamoozClient.Domain.dll
+E:\Secret\GRPCNikamoozClient\GRPCNikamoozClient.Domain\bin\Debug\net8.0\GRPCNikamoozClient.Domain.pdb
+E:\Secret\GRPCNikamoozClient\GRPCNikamoozClient.Domain\obj\Debug\net8.0\GRPCNikamoozClient.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Secret\GRPCNikamoozClient\GRPCNikamoozClient.Domain\obj\Debug\net8.0\GRPCNikamoozClient.Domain.AssemblyInfoInputs.cache
+E:\Secret\GRPCNikamoozClient\GRPCNikamoozClient.Domain\obj\Debug\net8.0\GRPCNikamoozClient.Domain.AssemblyInfo.cs
+E:\Secret\GRPCNikamoozClient\GRPCNikamoozClient.Domain\obj\Debug\net8.0\GRPCNikamoozClient.Domain.csproj.CoreCompileInputs.cache
+E:\Secret\GRPCNikamoozClient\GRPCNikamoozClient.Domain\obj\Debug\net8.0\GRPCNikamoozClient.Domain.dll
+E:\Secret\GRPCNikamoozClient\GRPCNikamoozClient.Domain\obj\Debug\net8.0\refint\GRPCNikamoozClient.Domain.dll
+E:\Secret\GRPCNikamoozClient\GRPCNikamoozClient.Domain\obj\Debug\net8.0\GRPCNikamoozClient.Domain.pdb
+E:\Secret\GRPCNikamoozClient\GRPCNikamoozClient.Domain\obj\Debug\net8.0\ref\GRPCNikamoozClient.Domain.dll
