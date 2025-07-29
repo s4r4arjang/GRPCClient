@@ -1,8 +1,8 @@
-using GRPCNikamoozClient.DLL.Repositories;
 using GRPCNikamoozClient.Domain.Services;
 using GRPCNikamoozClient.BLL.Services;
 using static GRPCNikamoozClient.DLL.Protos.v1.StudentService;
 using GRPCNikamoozClient.Domain.Repositories;
+using GRPCNikamoozClient.DAL.Repositories;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
