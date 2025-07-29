@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{020A4524-B51
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRPCNikamoozClient.BLL", "GRPCNikamoozClient.BLL\GRPCNikamoozClient.BLL.csproj", "{D89260C1-3A7F-4497-89DB-819BD44620B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRPCNikamoozClient.DLL", "GRPCNikamoozClient.DLL\GRPCNikamoozClient.DLL.csproj", "{D0E818FB-E1BF-4136-9EB4-97C272DB2A64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRPCNikamoozClient.DAL", "GRPCNikamoozClient.DLL\GRPCNikamoozClient.DAL.csproj", "{D0E818FB-E1BF-4136-9EB4-97C272DB2A64}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRPCNikamoozClient.Domain", "GRPCNikamoozClient.Domain\GRPCNikamoozClient.Domain.csproj", "{E49CF601-CB75-4441-AD1B-C342FA398335}"
 EndProject

@@ -12,7 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\GRPCNikamoozClient.BLL\GRPCNikamoozClient.BLL.csproj" />
-    <ProjectReference Include="..\GRPCNikamoozClient.DLL\GRPCNikamoozClient.DLL.csproj" />
+    <ProjectReference Include="..\GRPCNikamoozClient.DLL\GRPCNikamoozClient.DAL.csproj" />
     <ProjectReference Include="..\GRPCNikamoozClient.Domain\GRPCNikamoozClient.Domain.csproj" />
   </ItemGroup>
 
