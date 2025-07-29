@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\GRPCNikamoozClient.BLL\GRPCNikamoozClient.BLL.csproj" />
     <ProjectReference Include="..\GRPCNikamoozClient.DLL\GRPCNikamoozClient.DLL.csproj" />
     <ProjectReference Include="..\GRPCNikamoozClient.Domain\GRPCNikamoozClient.Domain.csproj" />

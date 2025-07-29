@@ -1,0 +1,17 @@
+[
+  {
+    "StudentNumber": "123123",
+    "FirstName": "Ali",
+    "LastName": "Hosseini",
+    "Description": "Ali Hosseini Description",
+    "PhoneNumbers": [ "123", "123123", "123321123" ]
+  },
+  {
+    "StudentNumber": "123675",
+    "FirstName": "saeed",
+    "LastName": "mohammadi",
+    "Description": "saeed mohammadi",
+    "PhoneNumbers": [ "456", "678943", "678943321" ]
+  }
+]
+
